@@ -10,7 +10,9 @@
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=sungkukpark&theme=calm)](https://github.com/sungkukpark)
 
-[![Sungkuk's github stats](https://github-readme-stats.vercel.app/api?username=sungkukpark&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![sungkukpark's github stats](https://github-readme-stats.vercel.app/api?username=sungkukpark&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![opgc](https://api.opgc.me/githubs/users/sungkukpark/tag/?theme=dracula)](https://opgc.me/#/users/sungkukpark)
 
 <!--
 **sungkukpark/sungkukpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
