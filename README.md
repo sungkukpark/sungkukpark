@@ -15,14 +15,16 @@
 ![sungkukpark's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=sungkukpark)
 
 ### 🔭 I’m currently working on ...
+
 - *Wooga* Technical Artist (Jan 2022 ~ Present)
 - *Wooga* Engineer (Apr 2019 ~ Jan 2022)
 - *Maverick Games* Game Engineer (Aug 2015 ~ Aug 2018)
 
 ### 🌱 I’m currently learning
+
 - Languages: Modern C++, C#, Python
 - Topics #1: Computer Graphics, Shader, Animation
-- Topics #2: Drawing, Painting, VFX, Game Feel
+- Topics #2: Drawing, Painting, VFX, Game Feel, Game Design
 
 <!--
 **sungkukpark/sungkukpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
