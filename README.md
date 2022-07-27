@@ -15,9 +15,9 @@
 ![sungkukpark's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=sungkukpark)
 
 ### 🔭 I’m currently working on ...
-- Wooga | Technical Artist (Jan 2022 ~ Present)
-- Wooga | Engineer (Apr 2019 ~ Jan 2022)
-- Maverick Games | Game Engineer (Aug 2015 ~ Aug 2018)
+- *Wooga* Technical Artist (Jan 2022 ~ Present)
+- *Wooga* Engineer (Apr 2019 ~ Jan 2022)
+- *Maverick Games* Game Engineer (Aug 2015 ~ Aug 2018)
 
 ### 🌱 I’m currently learning
 - Languages: Modern C++, C#, Python
