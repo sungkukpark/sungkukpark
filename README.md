@@ -12,7 +12,7 @@
 
 [![sungkukpark's github stats](https://github-readme-stats.vercel.app/api?username=sungkukpark&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![opgc](https://api.opgc.me/githubs/users/sungkukpark/tag/?theme=dracula)](https://opgc.me/#/users/sungkukpark)
+![sungkukpark's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=sungkukpark)
 
 <!--
 **sungkukpark/sungkukpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
