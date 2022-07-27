@@ -8,6 +8,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sungkukpark&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=sungkukpark&theme=calm)](https://github.com/sungkukpark)
+
 [![Sungkuk's github stats](https://github-readme-stats.vercel.app/api?username=sungkukpark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
