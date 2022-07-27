@@ -1,4 +1,6 @@
-### Hi there 👋
+### Sungkuk Park
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2sungkukpark)](https://github.com/sungkukpark)
 
 [![Sungkuk's github stats](https://github-readme-stats.vercel.app/api?username=sungkukpark)](https://github.com/anuraghazra/github-readme-stats)
 
